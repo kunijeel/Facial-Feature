@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+*.whl
+dist/
+build/
+pip-wheel-metadata/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Log files
+*.log
+
+# Python virtual environment files
+*.venv/
+*.env/
+*.virtualenv/
+
+# Project-specific directories
+image/
+label/
+
+# Sensitive environment variables
+.env
